@@ -109,7 +109,7 @@ entropy/
 
 - Entropy is a heuristic, not a classifier. A high score could mean encryption, compression, or a media file. Context matters.
 - Thresholds are empirical and may not generalize perfectly across all file types.
-- Sliding window summary caps display at 512 windows in verbose mode. Very large files will show a summary rather than every window.
+- Sliding window summary caps display at 64 windows in verbose mode. Very large files will show a summary rather than every window.
 - Maximum of 64 files per invocation.
 
 ---
