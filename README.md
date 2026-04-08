@@ -130,3 +130,7 @@ entropy/
 - Histogram visualization of full byte frequency distribution
 - Entropy comparison against a known-clean baseline file
 - Recursive directory scanning
+
+---
+### Note:
+-This project was built as a learning-focused exploration of low-level programming in C and entropy-based analysis, rather than a production-ready security tool.
